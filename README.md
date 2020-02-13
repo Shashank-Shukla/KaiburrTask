@@ -2,6 +2,7 @@
 Java Servlet Programs
 
 *__Task 1. Java REST API example.__
+
 Implement an application in java which provides a REST API with endpoints for searching,
 creating and deleting “server” objects:
 ● __GET servers__. Should return all the servers if no parameters are passed. When server id
