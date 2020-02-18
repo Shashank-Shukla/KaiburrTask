@@ -3,6 +3,7 @@ Created Java Rest-API using Jersey framework.
 
 ### Requirements:
 - Apache Tomcat EE plus
+- Jersey 2.30
 - Eclipse
 
 For url's used in the project, go to:
